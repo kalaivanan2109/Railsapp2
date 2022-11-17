@@ -1,0 +1,2 @@
+class WebEmployee < ApplicationRecord
+end
